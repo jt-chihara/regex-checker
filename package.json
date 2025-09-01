@@ -12,13 +12,13 @@
     "html-react-parser": "^5.1.15",
     "next": "15.5.2",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^19"
   },
   "devDependencies": {
     "@playwright/test": "^1.54.1",
     "@types/node": "^24",
     "@types/react": "^18",
-    "@types/react-dom": "^18",
+    "@types/react-dom": "^19",
     "eslint": "^9",
     "eslint-config-next": "15.4.6",
     "postcss": "^8",
